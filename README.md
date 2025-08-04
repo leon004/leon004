@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year Systems Engineering student.
+- 🎓 Computer Systems Engineer.
 - 💻 Software Engineer Intern at **Microsoft Teams**, working with **C#**, **React**, and **GraphQL**.
 - 🧠 Passionate about **AI in healthcare**, **cybersecurity**, and **scalable system design**.
 - 🧪 Built a lung and breast cancer detection systems using **PyTorch, TensorFlow, and YOLOv9**.
